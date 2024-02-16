@@ -1,16 +1,32 @@
-### Hi there 👋
+# 👋 Hi there, I'm Krishna Pal!
 
-<!--
-**Krishna33pal/krishna33pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 About Me
+I am a passionate *freelancer* with expertise in *Java, and MySQL. My journey in decentralized systems has equipped me with skills in **springBoot, **TomcatServer*, **Webdeveloper, * **Node.js, **JavaScript.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Freelancer 💻
+- Java  ⛓
+- Tomcat 🌐
+- Servlet 🔐
+- Node.js 🌟
+- Web2 🌐
+- MYSQL 🔍
+- C/C++(DSA) 🎩
+- React🚀
+- JavaScript 💡
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach Out
+Feel free to contact me via [email](mailto:krishnaphutaudha@gmail.com) for any inquiries or collaborations.
+
+## 🔗 Let's Connect
+Connect with me on [LinkedIn](https://www.linkedin.com/in/krishna-pal-04587b205/)!
+
+
+Looking forward to collaborating with you! 😊
+
+
+<!---
+KrishnaPal/krishna33pal is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
